@@ -1,6 +1,6 @@
 # mozbrowser-events-tests
 
-Packaged app test case for `<iframe mozbrowser>` events.
+Packaged app test cases for `<iframe mozbrowser>` events.
 
 
 ## Installation
